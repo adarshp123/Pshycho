@@ -1,2 +1,2 @@
 # pshycho
-i'm Embedded coding student 
+its used for nrf transmitter and receiver
